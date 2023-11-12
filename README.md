@@ -2,12 +2,11 @@ SolarPanelDetection
 ==============================
 
 <p align="center">
-<img src="https://github.com/diovani-dupont/SolarPanelDetection/assets/109030838/3ef4848e-b93a-46fb-9c68-5a81050387a5" alt="Spaceship" width="700">
+<img src="https://github.com/diovani-dupont/SolarPanelDetection/assets/109030838/3ef4848e-b93a-46fb-9c68-5a81050387a5" alt="Solar" width="700">
 </p>
 
-
-
 The following code is a script developed for a challenging competition in Solafune's Data Science area, focused on detecting solar panels in satellite images.
+This competition aims to develop an advanced technique for segmenting solar panels in optical satellite images. Accurate detection of solar panels from satellite images is crucial for energy supply planning, infrastructure optimization and disaster prediction. The challenge involves using Sentinel-2 satellite images, which have relatively low resolution, to identify and segment solar panels.
 
 Project Organization
 ------------
