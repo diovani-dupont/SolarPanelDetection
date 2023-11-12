@@ -1,6 +1,12 @@
 SolarPanelDetection
 ==============================
 
+<p align="center">
+<img src="https://github.com/diovani-dupont/SolarPanelDetection/assets/109030838/3ef4848e-b93a-46fb-9c68-5a81050387a5" alt="Spaceship" width="700">
+</p>
+
+
+
 The following code is a script developed for a challenging competition in Solafune's Data Science area, focused on detecting solar panels in satellite images.
 
 Project Organization
